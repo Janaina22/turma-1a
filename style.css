@@ -2,3 +2,10 @@ body {
     background-color: rgba(43, 235, 235, 0.842);
     text-align: center;
 }
+h1 { 
+    color: rgb(68, 57, 43);
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+}
